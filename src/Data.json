@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "image":"https://www.ds-istanbul.net/Files/assets/teacher-placeholder-male.jpg",
+        "title":"Mehmet Kara",
+        "Description":"Genel Müdür"
+    },
+    {
+        "id":2,
+        "image":"https://www.ds-istanbul.net/Files/assets/teacher-placeholder-male.jpg",
+        "title":"Hamdi Kılıç",
+        "Description":"Genel Müdür Yardımcısı"
+    },
+    {
+        "id":3,
+        "image":"https://www.ds-istanbul.net/Files/assets/teacher-placeholder-female.jpg",
+        "title":"Suna Tokgöz",
+        "Description":"Yönetici Asistanı"
+    },
+    {
+        "id":4,
+        "image":"https://www.ogunlerhurdametal.com/wp-content/uploads/2019/03/BAYAN-PERSONEL.png",
+        "title":"Kardelen Yılmaz",
+        "Description":"İnsan Kaynakları Sorumlusu"
+    },
+    {
+    
+    "id":5,
+    "image":"https://denizliadsm.saglik.gov.tr/Resim/30035/0/images-personel-erkekqbnwpng.png",
+    "title":"Emir Tekin",
+    "Description":"Bilgisayar Teknik Destek Sorumlusu"
+}
+]
